@@ -1,0 +1,14 @@
+C:\Users\Frank\Desktop\PROYECTOS\INVENTARIOSQLSERVER\InventarioCEMISAMSQLSERVER\Comun\bin\Release\Comun.dll
+C:\Users\Frank\Desktop\PROYECTOS\INVENTARIOSQLSERVER\InventarioCEMISAMSQLSERVER\Comun\bin\Release\Comun.pdb
+C:\Users\Frank\Desktop\PROYECTOS\INVENTARIOSQLSERVER\InventarioCEMISAMSQLSERVER\Comun\obj\Release\Comun.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Desktop\PROYECTOS\INVENTARIOSQLSERVER\InventarioCEMISAMSQLSERVER\Comun\obj\Release\Comun.dll
+C:\Users\Frank\Desktop\PROYECTOS\INVENTARIOSQLSERVER\InventarioCEMISAMSQLSERVER\Comun\obj\Release\Comun.pdb
+C:\Users\Frank\Desktop\InventarioCEMISAMSQLSERVERADMIN\Comun\bin\Release\Comun.dll
+C:\Users\Frank\Desktop\InventarioCEMISAMSQLSERVERADMIN\Comun\bin\Release\Comun.pdb
+C:\Users\Frank\Desktop\InventarioCEMISAMSQLSERVERADMIN\Comun\obj\Release\Comun.dll
+C:\Users\Frank\Desktop\InventarioCEMISAMSQLSERVERADMIN\Comun\obj\Release\Comun.pdb
+D:\escritorio20062015\InventarioCEMISAMSQLSERVERADMIN\Comun\bin\Release\Comun.dll
+D:\escritorio20062015\InventarioCEMISAMSQLSERVERADMIN\Comun\bin\Release\Comun.pdb
+D:\escritorio20062015\InventarioCEMISAMSQLSERVERADMIN\Comun\obj\Release\Comun.csprojResolveAssemblyReference.cache
+D:\escritorio20062015\InventarioCEMISAMSQLSERVERADMIN\Comun\obj\Release\Comun.dll
+D:\escritorio20062015\InventarioCEMISAMSQLSERVERADMIN\Comun\obj\Release\Comun.pdb
